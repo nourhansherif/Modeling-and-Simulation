@@ -1,0 +1,55 @@
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csproj.CoreCompileInputs.cache
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+C:\Users\pc\Downloads\Lab 5-20220404T001703Z-001\Lab 5\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\pc\Downloads\Lab 5-20220404T001703Z-001\Lab 5\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\pc\Downloads\Lab 5-20220404T001703Z-001\Lab 5\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Lab 5-20220404T001703Z-001\Lab 5\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\pc\Downloads\Lab 5-20220404T001703Z-001\Lab 5\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+C:\Users\pc\Desktop\Lab 5\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\pc\Desktop\Lab 5\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\pc\Desktop\Lab 5\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Lab 5\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\pc\Desktop\Lab 5\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+C:\Users\pc\Desktop\Lab 5\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\pc\Downloads\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\pc\Downloads\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\pc\Downloads\NewspaperSellerSimulation_Students\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+C:\Users\yasme.LAPTOP-A95MA11H\Downloads\d\Task 2\NewspaperSellerSimulation_Students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\yasme.LAPTOP-A95MA11H\Downloads\d\Task 2\NewspaperSellerSimulation_Students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\yasme.LAPTOP-A95MA11H\Downloads\d\Task 2\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csprojAssemblyReference.cache
+C:\Users\yasme.LAPTOP-A95MA11H\Downloads\d\Task 2\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csproj.CoreCompileInputs.cache
+C:\Users\yasme.LAPTOP-A95MA11H\Downloads\d\Task 2\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\yasme.LAPTOP-A95MA11H\Downloads\d\Task 2\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
